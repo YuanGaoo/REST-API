@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3149" started-at="2018-10-04T01:40:58Z" finished-at="2018-10-04T01:41:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3149" started-at="2018-10-04T01:40:58Z" finished-at="2018-10-04T01:41:01Z">
+      <class name="restAPI.JasonPath.JsonPath_PRACTICE2">
+        <test-method status="PASS" signature="init()[pri:0, instance:restAPI.JasonPath.JsonPath_PRACTICE2@c555e1e]" name="init" is-config="true" duration-ms="601" started-at="2018-10-04T01:40:58Z" finished-at="2018-10-04T01:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="getAllDriverFirstName()[pri:0, instance:restAPI.JasonPath.JsonPath_PRACTICE2@c555e1e]" name="getAllDriverFirstName" duration-ms="1788" started-at="2018-10-04T01:40:59Z" finished-at="2018-10-04T01:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllDriverFirstName -->
+        <test-method status="PASS" signature="simpleGetRequest()[pri:0, instance:restAPI.JasonPath.JsonPath_PRACTICE2@c555e1e]" name="simpleGetRequest" duration-ms="738" started-at="2018-10-04T01:41:00Z" finished-at="2018-10-04T01:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleGetRequest -->
+      </class> <!-- restAPI.JasonPath.JsonPath_PRACTICE2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
